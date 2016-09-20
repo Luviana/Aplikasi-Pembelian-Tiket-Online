@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tujuan">
+        <item>Jakarta</item>
+        <item>Bandung</item>
+        <item>Yogyakarta</item>
+        <item>Semarang</item>
+        <item>Surabaya</item>
+    </string-array>
+
+    <string-array name="berangkat">
+        <item>Malang</item>
+        <item>Solo</item>
+        <item>Magelang</item>
+        <item>Sukabumi</item>
+        <item>Bekasi</item>
+    </string-array>
+</resources>
