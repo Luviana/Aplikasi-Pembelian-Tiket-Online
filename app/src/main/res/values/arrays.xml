@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="tujuan">
-        <item>Jakarta</item>
+        <item>Jakarta Kota</item>
         <item>Bandung</item>
         <item>Yogyakarta</item>
         <item>Semarang</item>
